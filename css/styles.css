@@ -45,6 +45,10 @@ nav .home {
 	padding-left:98px;
 }
 
+.image5 img {
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
 #footer {
   float: left;
   padding-top: 30px;
@@ -74,7 +78,36 @@ nav .home {
 	padding-top: 119.6px;
 }
 
+.F1:hover{
+	opacity: 0.5;
+	transition: 1s ease-in;
+	transform: scale(1.01);
+}
+
 .oriphoto {
 	width: 1170px;
 	height: 225px;
+}
+
+.pirvelimartkutxedi {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	border-left: 98px;
+	position: relative;
+    margin-left: 98px;
+	margin-top: 30.8px;
+}
+
+.pirveliicon {
+	padding-left: 38.8px;
+	padding-top: 12.7px;;
+}
+
+.satauri1 {
+	font-size: 22px;
+	padding-left: 20.8px;
+	padding-top: 11.1px;
+	font-family: 'Roboto';
+	color: #3D58A6;
 }
