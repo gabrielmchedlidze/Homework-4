@@ -97,6 +97,7 @@ nav .home {
 	position: relative;
     margin-left: 98px;
 	margin-top: 30.8px;
+	float: left;
 }
 
 .pirveliicon {
@@ -110,6 +111,15 @@ nav .home {
 	padding-top: 11.1px;
 	font-family: 'Roboto';
 	color: #3D58A6;
+}
+
+.firsttext {
+	font-size: 20px;
+	padding-left: 200px;
+	margin-top: -110px;
+	font-family: 'Roboto';
+	float: left;
+}
 .meoremartkutxedi {
 	width: 570px;
 	background-color: #F2F2F2;
