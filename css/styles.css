@@ -110,4 +110,12 @@ nav .home {
 	padding-top: 11.1px;
 	font-family: 'Roboto';
 	color: #3D58A6;
+.meoremartkutxedi {
+	width: 570px;
+	background-color: #F2F2F2;
+	height: 225px;
+	float: right;
+	position: relative;
+	top: -225px;
+	left: 100px;
 }
